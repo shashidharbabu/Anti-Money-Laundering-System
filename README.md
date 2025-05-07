@@ -27,8 +27,10 @@ This project implements a complete Big Data pipeline for detecting suspicious fi
 | **Data Storage**   | CSV files (2GB+ handled)                      |
 
 ---
-```
+
+
 ## 🗂️ Project Structure
+```
 
 
 ├── app.py # Streamlit app
