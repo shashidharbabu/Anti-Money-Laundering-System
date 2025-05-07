@@ -1,0 +1,15 @@
+# .gitignore
+
+# Ignore Python artifacts
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+
+# Ignore data files (optional if not committing large datasets)
+*.csv
+*.pkl
+
+# Ignore OS files
+.DS_Store
