@@ -92,6 +92,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+![Screenshot 2025-05-06 at 21 49 06](https://github.com/user-attachments/assets/e691cdcc-555c-4399-96e5-476f661860fc)
+![Screenshot 2025-05-06 at 21 39 32](https://github.com/user-attachments/assets/3f0faf27-e99f-4865-b20f-7a3fd4b09149)
+![Screenshot 2025-05-06 at 21 41 02](https://github.com/user-attachments/assets/bdb3b9d5-847d-4c15-b1f2-8283dd1fb4e6)
+
+
+
 ## 🧠 Contributors
 
 Shashidhar Babu P V D
