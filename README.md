@@ -92,7 +92,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-🧠 Contributors
+## 🧠 Contributors
+
 Shashidhar Babu P V D
 
 Vaheedur Rehman Mahmud
